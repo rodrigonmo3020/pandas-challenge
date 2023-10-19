@@ -1,0 +1,11 @@
+According to the analysis of school data and student data, the outcome is:
+
+	• In all schools the average of Reading score is higher than the average of Math score.
+	• The schools that have the highest performing of overall passing, are  Charter type schools
+	• The schools that have the lower performing of overall passing, are District type schools
+	• Schools with $585 or lower of Spending Range per student, are the ones that have higher scores of Math and Reading.
+	• On the other hand the schools with $645-680 of Spending Range per student are the ones that have lower scores of Math and Reading.
+	• Schools with a small size (1000  or less students) are the ones that registered the higher scores of Math and Reading.
+	• On the other hand the Schools with a large size (between 2000 - 5000 students) are the ones that registered the lower scores of Math and Reading.
+
+Insight: Schools with a small size and with lower budgets have a better student performance.
